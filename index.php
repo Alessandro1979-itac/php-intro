@@ -5,8 +5,8 @@ include "servicos/servicoMensagemSessao.php";
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>Formulário de inscrição</title>
+    <meta charset="UTF-8">
+    <title>Formulário de Inscrição</title>
     <meta name="author" content="">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
